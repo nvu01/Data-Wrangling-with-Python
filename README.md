@@ -4,11 +4,11 @@ This project explores two datasets gathered from the U.S. Census Bureau, focusin
 
 The project files included in this repository are:
 
-1. **`Data_Wrangling_Project.ipynb`**: Jupyter Notebook containing the full analysis, including data wrangling, cleaning, and visualizations.
-2. **`Data_Wrangling_Project.html`**: Exported HTML version of the Jupyter Notebook for easy viewing.
-3. **`ACSST1Y2023.S2001-Data.csv`**: Dataset 1 (Full-Time Earnings) in CSV format.
-4. **`raw_education.json`**: Dataset 2 (Educational Attainment) in JSON format.
-5. **`cleaned_merged_data.csv`**: The final cleaned and merged dataset after performing the data wrangling steps.
+1. **`Data_Wrangling_Project.ipynb`**: Jupyter Notebook containing the full analysis, including data wrangling, analysis and visualizations. **Note**: This notebook requires the **`ACSST1Y2023.S2001-Data.csv`** dataset to run. The other files are not required to execute the notebook.
+2. **`ACSST1Y2023.S2001-Data.csv`** (Required to run the Jupyter Notebook): Dataset 1 (Full-Time Earnings) in CSV format.
+3. **`raw_education.json`**: Dataset 2 (Educational Attainment) in JSON format.
+4. **`cleaned_merged_data.csv`**: The final cleaned and merged dataset after performing the data wrangling steps.
+5. **`Data_Wrangling_Project.html`**: Exported HTML version of the Jupyter Notebook for easy viewing.
 
 ## Structure of Jupyter Notebook
 
